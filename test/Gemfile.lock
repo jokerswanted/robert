@@ -16,6 +16,10 @@ GEM
     multi_json (1.6.1)
     rack (1.4.5)
     redis (3.0.3)
+    sinatra (1.1.0)
+      rack (~> 1.1)
+      tilt (~> 1.1)
+    tilt (1.3.6)
 
 PLATFORMS
   ruby
@@ -24,3 +28,4 @@ DEPENDENCIES
   airbrake
   exceptional
   redis
+  sinatra (= 1.1.0)
