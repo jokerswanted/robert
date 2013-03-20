@@ -1,0 +1,4 @@
+source :rubygems
+gem 'airbrake'
+gem 'exceptional'
+gem 'redistogo'
