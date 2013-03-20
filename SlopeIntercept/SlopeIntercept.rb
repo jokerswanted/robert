@@ -1,5 +1,4 @@
 # Robert Mroz          
-#!/usr/bin/env ruby
 #rescue Exception => e
 #end
 

@@ -1,4 +1,4 @@
-source :rubygems
+source 'http://rubygems.org'
 gem 'airbrake'
 gem 'exceptional'
-gem 'redistogo'
+gem 'redis'
